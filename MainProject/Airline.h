@@ -8,6 +8,6 @@ public:
 	string name;
 	string country;
 	int foundation_year;
-	int park_size; // размер авиапарка
-	int employee; // кол-во сотрудников
+	int park_size; // СЂР°Р·РјРµСЂ Р°РІРёР°РїР°СЂРєР°
+	int employee; // РєРѕР»-РІРѕ СЃРѕС‚СЂСѓРґРЅРёРєРѕРІ
 };
